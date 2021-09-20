@@ -36,6 +36,6 @@ Nesse projeto, fui capaz de:
 
 - Baixe o projeto: git clone
 
-- Entre na pasta do projeto e instale as dependências: cd mysql-one-for-all && npm install
+- Entre na pasta do projeto e instale as dependências: cd mysql-all-for-one && npm install
 
 - Rode as queries SQL no MySQL Workbench ou use o terminal
